@@ -6,3 +6,5 @@ This code encompasses several natural language processing techniques and leverag
 
 
 ![image](https://github.com/Nargesmohammadi/Amazon-Reviews-Sentiment-Analysis/assets/96385230/d74964ae-9cac-49d2-99a0-8a79181a2355)
+
+![image](https://github.com/Nargesmohammadi/Amazon-Reviews-Sentiment-Analysis/assets/96385230/0dbc9c72-9f3b-4a81-9712-6942e72f0494)
